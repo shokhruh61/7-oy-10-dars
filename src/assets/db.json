@@ -1,0 +1,94 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Birinchi blog posti",
+            "content": "Bu birinchi blog posti matni.",
+            "image": "https://picsum.photos/536/354"
+        },
+        {
+            "id": 2,
+            "title": "Ikkinchi blog posti",
+            "content": "Bu ikkinchi blog posti matni.",
+            "image": "https://picsum.photos/536/354"
+        },
+        {
+            "id": 3,
+            "title": "Uchinchi blog posti",
+            "content": "Bu uchinchi blog posti matni.",
+            "image": "https://picsum.photos/536/354"
+        },
+        {
+            "id": 4,
+            "title": "To'rtinchi blog posti",
+            "content": "Bu to'rtinchi blog posti matni.",
+            "image": "https://picsum.photos/536/354"
+        },
+        {
+            "id": 5,
+            "title": "Beshinchi blog posti",
+            "content": "Bu beshinchi blog posti matni.",
+            "image": "https://picsum.photos/536/354"
+        },
+        {
+            "id": 6,
+            "title": "Oltinchi blog posti",
+            "content": "Bu oltinchi blog posti matni.",
+            "image": "https://picsum.photos/536/354"
+        },
+        {
+            "id": 7,
+            "title": "Yettinchi blog posti",
+            "content": "Bu yettinchi blog posti matni.",
+            "image": "https://picsum.photos/536/354"
+        },
+        {
+            "id": 8,
+            "title": "Sakkizinchi blog posti",
+            "content": "Bu sakkizinchi blog posti matni.",
+            "image": "https://picsum.photos/536/354"
+        },
+        {
+            "id": 9,
+            "title": "To'qqizinchi blog posti",
+            "content": "Bu to'qqizinchi blog posti matni.",
+            "image": "https://picsum.photos/536/354"
+        },
+        {
+            "id": 10,
+            "title": "O'ninchi blog posti",
+            "content": "Bu o'ninchi blog posti matni.",
+            "image": "https://picsum.photos/536/354"
+        },
+        {
+            "id": 11,
+            "title": "O'n birinchi blog posti",
+            "content": "Bu o'n birinchi blog posti matni.",
+            "image": "https://picsum.photos/536/354"
+        },
+        {
+            "id": 12,
+            "title": "O'n ikkinchi blog posti",
+            "content": "Bu o'n ikkinchi blog posti matni.",
+            "image": "https://picsum.photos/536/354"
+        },
+        {
+            "id": 13,
+            "title": "O'n uchinchi blog posti",
+            "content": "Bu o'n uchinchi blog posti matni.",
+            "image": "https://picsum.photos/536/354"
+        },
+        {
+            "id": 14,
+            "title": "O'n to'rtinchi blog posti",
+            "content": "Bu o'n to'rtinchi blog posti matni.",
+            "image": "https://picsum.photos/536/354"
+        },
+        {
+            "id": 15,
+            "title": "O'n beshinchi blog posti",
+            "content": "Bu o'n beshinchi blog posti matni.",
+            "image": "https://picsum.photos/536/354"
+        }
+    ]
+}
