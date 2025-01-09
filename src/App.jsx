@@ -2,7 +2,7 @@ import React from 'react'
 import { Route, Routes } from 'react-router-dom'
 import TodoList from './pages/TodoList'
 import HeaderLayout from './layouts/HeaderLayout'
-import Json from './pages/json'
+import Json from './pages/Json'
 import Chart from './pages/Chart'
 import Formik from './pages/Formik'
 
@@ -22,7 +22,7 @@ function App () {
           path='/json'
           element={
             <HeaderLayout>
-              <Json />
+              < Json />
             </HeaderLayout>
           }
         />
